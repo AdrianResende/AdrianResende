@@ -43,7 +43,7 @@ Olá! Meu nome é **Adrian Resende**. Sou desenvolvedor focado em criar interfac
 
 ## 📫 Contato
 
-- Email: adrianresende@email.com *(exemplo, personalize se quiser)*
+- Email: adrianresende@email.com
 - LinkedIn: [Adrian Resende](https://www.linkedin.com/in/adrian-resende-767217207/)
 
 ---
