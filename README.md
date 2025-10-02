@@ -1,21 +1,30 @@
 # Adrian Resende
 
-> Desenvolvedor Front-end apaixonado por tecnologia, inovação e desafios! 🚀
+> Desenvolvedor Full-stack apaixonado por tecnologia, inovação e desafios! 🚀
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Adrian Resende**. Sou desenvolvedor focado em criar interfaces modernas e funcionais utilizando as principais tecnologias do mercado. Sempre buscando aprender e evoluir!
+Olá! Meu nome é **Adrian Resende**. Sou desenvolvedor full-stack com experiência tanto no front-end quanto no back-end, focado em criar soluções completas e funcionais utilizando as principais tecnologias do mercado. Sempre buscando aprender e evoluir!
 
 ---
 
 ## 🛠️ Tecnologias
+
+### Front-end
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS3" />
+</div>
+
+### Back-end
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="Go" />
 </div>
 
 ---
