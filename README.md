@@ -1,33 +1,36 @@
-# 👋 E aí, eu sou o Adrian Resende
+#  Adrian Resende
 
-💻 Desenvolvedor Full-stack  
-🚀 Apaixonado por tecnologia, inovação e desafios  
+<div align="center">
+
+💻 Full-stack Developer  
+🚀 Construindo soluções inteligentes e funcionais  
+
+<br>
+
+<!-- Typing effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7A5CFA&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Java+%7C+Go+%7C+Vue+%7C+React;Sempre+aprendendo+algo+novo..." />
+
+</div>
 
 ---
 
 ## 🧭 Sobre mim
 
-Sou desenvolvedor full-stack com foco em criar soluções completas, desde interfaces modernas até backends eficientes.
+Sou desenvolvedor full-stack com foco em criar sistemas completos — do frontend intuitivo ao backend robusto.
 
-Gosto de entender como as coisas funcionam de verdade e estou sempre buscando evoluir e aprender novas tecnologias.
+Tenho interesse em:
+- 🔐 Segurança e hacking ético  
+- 📊 Sistemas inteligentes com IA  
+- ⚙️ Performance e arquitetura  
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 🎨 Front-end
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-</div>
+<div align="center">
 
-### ⚙️ Back-end
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" />
+<img src="https://skillicons.dev/icons?i=js,react,vue,html,css,java,go" />
+
 </div>
 
 ---
@@ -35,42 +38,60 @@ Gosto de entender como as coisas funcionam de verdade e estou sempre buscando ev
 ## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/AdrianResende">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdrianResende&show_icons=true&theme=dracula" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianResende&layout=compact&theme=dracula" height="150" />
-  </a>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AdrianResende&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianResende&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianResende&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
 </div>
 
 ---
 
-## 🚧 Projetos em destaque
+## 📈 Atividade
 
-- 🧠 Sistema de análise de investimentos com IA  
-- 💈 Chatbot de agendamento para barbearia  
-- 🚗 Sistema de rastreamento de veículos  
-- 🌐 Sistema web de gestão de chamados  
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianResende&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+
+</div>
 
 ---
 
-## 🌍 Redes
+## 🚧 Projetos
 
-<div align="left">
-  <a href="https://www.instagram.com/Adrian_resende/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adrian-resende-767217207/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+- 🧠 Sistema de análise de investimentos com IA  
+- 💈 Chatbot de agendamento para barbearia  
+- 🚗 Rastreamento de veículos com estruturas de dados  
+- 🌐 Sistema de gestão de chamados  
+
+---
+
+## 🌐 Conexões
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adrian-resende-767217207/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://www.instagram.com/Adrian_resende/">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
 </div>
 
 ---
 
 ## 📬 Contato
 
-📧 adrianresende@email.com  
+📧 adrianresende147@gmail.com  
 
 ---
 
-## ⚡ Frase
+<div align="center">
 
-> Construindo soluções, não só código.
+✨ *Transformando ideias em código que funciona de verdade.*
+
+</div>
